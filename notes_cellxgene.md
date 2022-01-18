@@ -85,5 +85,6 @@ cellxgene launch our_data.h5ad
 # References for `cellxgene`
 
 * [Bioarxiv manuscript of `cellxgene`](https://www.biorxiv.org/content/10.1101/2021.04.05.438318v1)
-* [Bioarxiv manuscript of `ceelxgene VIP`](https://www.biorxiv.org/content/10.1101/2020.08.28.270652v1)
+* [Documentation for `cellxgene` Desktop](https://docs.cellxgene.cziscience.com/desktop/desktop-overview)
+* [Bioarxiv manuscript of `cellxgene VIP`](https://www.biorxiv.org/content/10.1101/2020.08.28.270652v1)
 * [Documentation for `cellxgene VIP`](https://interactivereport.github.io/cellxgene_VIP/tutorial/docs/)
