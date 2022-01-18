@@ -81,3 +81,9 @@ cellxgene launch https://cellxgene-example-data.czi.technology/pbmc3k.h5ad
 conda activate VIP
 cellxgene launch our_data.h5ad
 ```
+
+# References for `cellxgene`
+
+* [Bioarxiv manuscript of `cellxgene`](https://www.biorxiv.org/content/10.1101/2021.04.05.438318v1)
+* [Bioarxiv manuscript of `ceelxgene VIP`](https://www.biorxiv.org/content/10.1101/2020.08.28.270652v1)
+* [Documentation for `cellxgene VIP`](https://interactivereport.github.io/cellxgene_VIP/tutorial/docs/)
